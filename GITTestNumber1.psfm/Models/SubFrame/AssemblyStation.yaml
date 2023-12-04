@@ -1,0 +1,32 @@
+InternalClassType: AssemblyStation
+AssemblyMode: "Attach MUs"
+Coordinate3D: [8,-9,0]
+ExitCtrl: "self.OnExit"
+Origin: ede48b0f-6e77-4b1c-a3e3-c83abb8a02b9
+PartListMode: "Predecessors"
+RandomSeed: 647
+UUID: d9d7cb18-7b21-4ba5-a994-7aa226fdec2f
+$SequenceNumber: 6
+3D:
+ ExcludeFromShowContentOfLocation: true
+$CustomAttributes:
+-
+ Name: OnExit
+ ID: 4016675005
+ DataType: method
+ RandomSeed: 663
+ Value: |+1
+  @.move -- Remove this, if the exit control is rear triggered!
+  moveOn:=true
+$Successors:
+-
+ $Succ: b00b760e-5c61-4b23-b062-acf6dda5865d
+ Name: Connector3
+ Origin: b51352e5-e162-4352-98f1-04a0393d61f8
+ UUID: 18f38c29-594d-4f44-9326-5b387d85ade2
+ $SequenceNumber: 11
+$Predecessors:
+- 0c0a8322-c547-43b2-abf6-ccfc11c118a5
+- 7ddfb085-4c75-453a-88cc-4eb371d842de
+$AssemblyTable:
+- [2,1]
