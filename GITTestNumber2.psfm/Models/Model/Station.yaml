@@ -1,0 +1,15 @@
+InternalClassType: Station
+Coordinate3D: [4,-4,0]
+Origin: c0cae3f2-c4be-4916-bc80-9c3ff2f468c4
+RandomSeed: 101
+UUID: 203948f1-2038-42ae-abd6-3de2d11efe5e
+$SequenceNumber: 3
+$Successors:
+-
+ $Succ: 3fac87f9-52f4-4a23-a6ac-0f5b464f63a6
+ Name: Connector1
+ Origin: 8aa6649c-ff95-4ff2-bbd2-087d762f09ca
+ UUID: 829bb5c9-d806-4288-966f-b7ab0eafa80f
+ $SequenceNumber: 6
+$Predecessors:
+- b49b1a2d-eb00-4b26-b28b-f9d28f8485d7
