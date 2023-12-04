@@ -1,0 +1,9 @@
+InternalClassType: Variable
+Coordinate3D: [17.5,-5.2999999999999989,0]
+DataType: boolean
+Name: Transport
+Origin: ad27d86e-297e-4d91-985a-b3c6486f76e2
+ShowDataType: false
+UUID: 0acfb0dd-c205-4cfc-9d18-b1eeb6624181
+$SequenceNumber: 8
+Value: true

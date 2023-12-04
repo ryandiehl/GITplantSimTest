@@ -1,0 +1,13 @@
+InternalClassType: Method
+Coordinate3D: [28.200000000000003,-8.4500000000000011,0]
+Name: isTool
+Origin: 1f180de1-c9d7-4cf5-bc2a-85ee43e966ed
+Program: |+1
+ -- "Experiment", "GAwizard", "BottleneckAnalyzer"
+ param obj:object->boolean
+ if obj.getAttrNo("objType")>0 and Rootfolder.~ = .Tools
+ 	result := true
+ end
+RandomSeed: 57
+UUID: d9cf1bf8-1ead-4080-954c-07a56efa3f27
+$SequenceNumber: 22

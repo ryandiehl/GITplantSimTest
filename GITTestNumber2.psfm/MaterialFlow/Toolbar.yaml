@@ -1,0 +1,34 @@
+InternalClassType: Toolbar
+ChangePathCtrl:
+ConstructorCtrl:
+DestructorCtrl:
+Label: "Material Flow"
+MoveToFolderCtrl:
+Name: Toolbar
+UUID: 17b0260b-4f97-4393-ad8d-3480278610c8
+Visible: true
+$SequenceNumber: 4294967295
+$Objects:
+- 8aa6649c-ff95-4ff2-bbd2-087d762f09ca
+- b4e11ea5-a487-4129-888a-c35eb9e37ad2
+- 9106f9c2-74e7-476b-b2ef-ba02711f0683
+- 93523937-8454-4d1c-b4d5-c6b0be505810
+- 02f69716-1ba7-4662-b625-3388ebef532f
+- 8893aab0-b78e-45a8-a169-9017e1f198fc
+- c0cae3f2-c4be-4916-bc80-9c3ff2f468c4
+- ec3c9bc3-03e2-4f45-a6a6-aca2314e8213
+- 28c0310a-15bd-44fa-96e9-3b3a376375fb
+- 92ce6c72-15d9-4b22-a9af-af2ac4bd7c90
+- 4180cf4c-eca4-45ba-82c9-583c52109317
+- 9b55c543-33d9-4539-a44f-763e2c53cbca
+- 75a99f13-2aa2-4cf7-84c6-1eea56476db4
+- be90b4e9-9584-4327-9e9f-d365f2016993
+- cbb9229d-71ee-40e3-ad92-177a4b752c79
+- 63ea48cf-0298-47e8-81da-0dbef366ae23
+- de744e60-8a1a-4ec5-a162-5712a4a7c2d5
+- 10fc25c3-0208-45d6-a6e3-1a8eedec3a5a
+- 95074d6f-40c5-4e17-bce7-db9a2538c7fe
+- d23b1fa5-9e58-441b-ac02-580ee884fc97
+- d7bef7b3-ebf4-40b2-a6ec-ba0c2671df2a
+- b34bdcaf-f396-422a-a1f7-0089b4f5f271
+- a0d73be6-8ded-4e25-a729-07190f81353c

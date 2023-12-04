@@ -1,0 +1,12 @@
+InternalClassType: Folder
+ChangePathCtrl:
+Coordinate3D: [2,-8,0.05]
+DestructorCtrl:
+MoveToFolderCtrl:
+Name: Models
+PermitDeleteCtrl:
+RenameCtrl:
+UUID: e6363759-d1ce-4280-abc6-ded46838aaa8
+$SequenceNumber: 9
+3D:
+ BackgroundColor: -1
