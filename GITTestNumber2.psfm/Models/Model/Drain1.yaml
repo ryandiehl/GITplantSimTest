@@ -1,0 +1,9 @@
+InternalClassType: Drain
+Coordinate3D: [10,-8,0]
+Name: Drain1
+Origin: 8893aab0-b78e-45a8-a169-9017e1f198fc
+RandomSeed: 639
+UUID: c91ef8f8-4b7d-4574-89fa-8e0601056982
+$SequenceNumber: 9
+$Predecessors:
+- a1009b82-17e6-4489-9d71-42583c9c770d
